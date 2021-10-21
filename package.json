@@ -22,8 +22,7 @@
   },
   "homepage": "https://github.com/stanleynguyen/amongus-todo#readme",
   "dependencies": {
-    "json-server": "^0.16.3",
-    "striptags": "^3.2.0"
+    "json-server": "^0.16.3"
   },
   "devDependencies": {
     "eslint": "^7.31.0",
@@ -33,7 +32,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "husky": "^7.0.1",
     "jest": "^27.0.6",
-    "jest-extended": "^0.11.5",
+    "jest-extended": "^1.1.0",
     "lint-staged": "^11.1.0",
     "prettier": "^2.3.2",
     "supertest": "^6.1.4"
