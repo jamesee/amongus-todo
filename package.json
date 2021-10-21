@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/stanleynguyen/amongus-todo#readme",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "striptags": "^3.1.1"
   },
   "devDependencies": {
     "eslint": "^7.31.0",
