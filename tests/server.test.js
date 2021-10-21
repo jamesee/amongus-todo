@@ -34,7 +34,7 @@ describe('TODOs REST API', () => {
       expect(response.body).toEqual({
         text: 'Random task',
         type: 'short',
-        id: 33
+        id: 336
       });
     });
   });
